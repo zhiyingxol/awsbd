@@ -1,0 +1,168 @@
+,country,category_id,counts
+0,CA,Entertainment,13173
+1,CA,News & Politics,3868
+2,CA,People & Blogs,3726
+3,CA,Comedy,3725
+4,CA,Music,3695
+5,CA,Sports,2650
+6,CA,Film & Animation,2001
+7,CA,Howto & Style,1998
+8,CA,Gaming,1330
+9,CA,Science & Technology,1143
+10,CA,Education,982
+11,CA,Travel & Events,377
+12,CA,Pets & Animals,369
+13,CA,Autos & Vehicles,348
+14,CA,Shows,124
+15,CA,29,70
+16,CA,Movies,6
+17,DE,Entertainment,14947
+18,DE,People & Blogs,5440
+19,DE,News & Politics,2818
+20,DE,Sports,2614
+21,DE,Comedy,2484
+22,DE,Music,2332
+23,DE,Film & Animation,2213
+24,DE,Howto & Style,1717
+25,DE,Gaming,1530
+26,DE,Autos & Vehicles,855
+27,DE,Education,817
+28,DE,Science & Technology,791
+29,DE,29,246
+30,DE,Pets & Animals,238
+31,DE,Travel & Events,136
+32,DE,Shows,107
+33,DE,Movies,2
+34,DE,Trailers,1
+35,FR,Entertainment,9510
+36,FR,People & Blogs,4673
+37,FR,Comedy,4223
+38,FR,Sports,4001
+39,FR,Music,3829
+40,FR,News & Politics,3263
+41,FR,Howto & Style,2334
+42,FR,Film & Animation,1884
+43,FR,Gaming,1393
+44,FR,Science & Technology,794
+45,FR,Education,740
+46,FR,Autos & Vehicles,610
+47,FR,Pets & Animals,234
+48,FR,29,110
+49,FR,Travel & Events,102
+50,FR,Shows,99
+51,FR,Movies,11
+52,FR,Trailers,2
+53,GB,Music,13605
+54,GB,Entertainment,8911
+55,GB,People & Blogs,2816
+56,GB,Film & Animation,2542
+57,GB,Howto & Style,1921
+58,GB,Sports,1882
+59,GB,Comedy,1794
+60,GB,Gaming,1751
+61,GB,News & Politics,1157
+62,GB,Pets & Animals,527
+63,GB,Science & Technology,476
+64,GB,Education,457
+65,GB,Autos & Vehicles,144
+66,GB,Travel & Events,96
+67,GB,29,38
+68,GB,Shows,20
+69,IN,Entertainment,14530
+70,IN,News & Politics,4646
+71,IN,Music,3291
+72,IN,Comedy,2949
+73,IN,People & Blogs,2239
+74,IN,Film & Animation,1455
+75,IN,Education,1120
+76,IN,Howto & Style,794
+77,IN,Sports,631
+78,IN,Science & Technology,513
+79,IN,Shows,149
+80,IN,29,103
+81,IN,Autos & Vehicles,66
+82,IN,Gaming,55
+83,IN,Movies,10
+84,IN,Travel & Events,8
+85,IN,Pets & Animals,3
+86,JP,Entertainment,4156
+87,JP,People & Blogs,2094
+88,JP,Sports,1352
+89,JP,News & Politics,980
+90,JP,Music,925
+91,JP,Pets & Animals,836
+92,JP,Film & Animation,760
+93,JP,Gaming,646
+94,JP,Howto & Style,568
+95,JP,Comedy,465
+96,JP,Autos & Vehicles,221
+97,JP,Science & Technology,105
+98,JP,Travel & Events,91
+99,JP,Education,84
+100,JP,29,13
+101,KR,Entertainment,7971
+102,KR,News & Politics,6099
+103,KR,People & Blogs,5472
+104,KR,Film & Animation,1870
+105,KR,Comedy,1800
+106,KR,Music,1642
+107,KR,Gaming,1257
+108,KR,Sports,829
+109,KR,Pets & Animals,666
+110,KR,Howto & Style,515
+111,KR,Education,432
+112,KR,29,267
+113,KR,Shows,157
+114,KR,Autos & Vehicles,111
+115,KR,Science & Technology,92
+116,KR,Travel & Events,82
+117,KR,Trailers,2
+118,MX,Entertainment,12262
+119,MX,People & Blogs,6496
+120,MX,Sports,3672
+121,MX,Music,3225
+122,MX,News & Politics,2866
+123,MX,Howto & Style,2409
+124,MX,Comedy,1610
+125,MX,Film & Animation,1178
+126,MX,Gaming,896
+127,MX,Science & Technology,504
+128,MX,Education,488
+129,MX,Autos & Vehicles,246
+130,MX,29,142
+131,MX,Travel & Events,113
+132,MX,Pets & Animals,75
+133,MX,Shows,3
+134,RU,People & Blogs,9216
+135,RU,Entertainment,5838
+136,RU,News & Politics,4927
+137,RU,Comedy,2976
+138,RU,Film & Animation,2835
+139,RU,Howto & Style,1963
+140,RU,Sports,1841
+141,RU,Music,1827
+142,RU,Autos & Vehicles,1557
+143,RU,29,1426
+144,RU,Science & Technology,1110
+145,RU,Gaming,1025
+146,RU,Education,663
+147,RU,Pets & Animals,577
+148,RU,Travel & Events,255
+149,RU,Shows,193
+150,RU,Movies,1
+151,US,Entertainment,9799
+152,US,Music,6432
+153,US,Howto & Style,4136
+154,US,Comedy,3431
+155,US,People & Blogs,3059
+156,US,News & Politics,2407
+157,US,Science & Technology,2358
+158,US,Film & Animation,2338
+159,US,Sports,2123
+160,US,Education,1641
+161,US,Pets & Animals,916
+162,US,Gaming,802
+163,US,Travel & Events,401
+164,US,Autos & Vehicles,379
+165,US,Shows,57
+166,US,29,53
